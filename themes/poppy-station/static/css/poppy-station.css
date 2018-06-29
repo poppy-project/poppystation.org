@@ -1,0 +1,50 @@
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 400;
+  src: local("system-ui"), local(".SFNSText-Light"), local("Segoe UI"),
+    local("Roboto"), local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"),
+    local("Helvetica Neue");
+}
+
+:root {
+  --color-text: #006865;
+  --color-text-alt: #f7cac9;
+  --color-white: #ffffff;
+  --color-background: #efefef;
+  --color-pale-background: #efefef;
+  --shadow: rgba(0, 0, 0, 0.1);
+
+  font-family: Roboto, system, "sans serif";
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Skip to content link */
+
+.a11y-skip {
+  top: -1000px;
+  left: -1000px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.a11y-skip:focus,
+.a11y-skip:hover,
+.a11y-skip:active {
+  left: 1rem;
+  top: 1rem;
+  width: auto;
+  height: auto;
+  padding: 0.5rem;
+  overflow: visible;
+  outline: 0;
+  background: var(--color-background);
+  border: 0.5rem solid var(--color-text);
+  color: var(--color-text);
+  text-decoration: none;
+}

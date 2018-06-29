@@ -1,0 +1,19 @@
+
+<footer class="container-fluid px-4 py-3 bg-light">
+  <div class="row">
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          © Poppy Station
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ template "_internal/google_analytics.html" . }}
+
+{{ "<!-- Build date: " | safeHTML }}{{ (now.Format "Mon, 02 Jan 2006 15:04:05 MST") | safeHTML }}{{ " -->" | safeHTML }}
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+baseURL = "https://dashdashzako.github.io/poppy-station/"
+languageCode = "fr"
+title = "Poppy Station"
+theme = "poppy-station"
+disableKinds = ["section", "taxonomy", "taxonomyTerm"]
+
+enableRobotsTXT = true
+
+[permalinks]
+page = "/:slug/"
+post = "/:year/:slug/"
