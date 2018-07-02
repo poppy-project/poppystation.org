@@ -1,0 +1,14 @@
+<header class="index-header jumbotron jumbotron-fluid text-white bg-dark text-center mb-0" style="background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url({{ "img/background-index.jpg" | relURL }});">
+  <div class="container">
+    <div class="row justify-content-lg-center">
+      <div class="col-lg-6">
+        <h1 class="display-3 mb-4">{{ $.Site.Params.jumbotron.title }}</h1>
+        {{ if $.Site.Params.jumbotron.description -}}
+        <p class="lead">
+          {{- $.Site.Params.jumbotron.description -}}
+        </p>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+</header>

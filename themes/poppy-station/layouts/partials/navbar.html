@@ -1,0 +1,16 @@
+<nav class="navbar bd-navbar">
+  <div class="container">
+    <a href="{{ .Site.BaseURL }}" class="navbar-brand">
+      <img src="{{ "img/logo.svg" | relURL }}" width="30" height="30" class="d-inline-block align-top" alt="">
+      Poppy Station
+    </a>
+
+    <ul class="navbar-nav flex-row d-md-flex ml-md-auto">
+      {{ range where .Site.RegularPages "Section" "page" -}}
+      <li class="nav-item">
+        <a href="{{ .Permalink }}" class="nav-link p-2">{{ .Title }}</a>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</nav>
