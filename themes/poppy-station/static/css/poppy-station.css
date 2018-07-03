@@ -27,6 +27,15 @@ section {
   padding: 100px 0;
 }
 
+.single-content > *,
+.single-content figure,
+.single-content img,
+.single-content video,
+.single-content iframe,
+.single-content embed {
+  max-width: 100%;
+}
+
 .site-footer {
   font-size: 0.875rem;
 }
