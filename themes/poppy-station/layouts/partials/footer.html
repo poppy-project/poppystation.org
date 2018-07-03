@@ -24,6 +24,14 @@
           </li>
           {{- end }}
 
+          {{ if $.Site.Data.Social.facebook -}}
+          <li class="list-inline-item">
+            <a href="{{ $.Site.Data.Social.facebook.url }}" class="text-dark d-inline-block">
+              <i class="fab fa-facebook fa-lg"></i>
+            </a>
+          </li>
+          {{- end }}
+
         </ul>
         {{- end }}
       </div>
