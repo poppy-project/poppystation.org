@@ -4,9 +4,18 @@ Sources of the poppy-station website.
 
 ## Dependencies
 
-Site is built with [Hugo](https://gohugo.io). Refer to [the documentation section](https://gohugo.io/getting-started/installing/#quick-install) to install it locally.
+Content is built with [Hugo](https://gohugo.io) v42.2. Refer to [the documentation section](https://gohugo.io/getting-started/installing/#quick-install) to install it locally.
 
 Layout is done using [Bootstrap v4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/).
+
+### Dev dependencies
+
+Development dependencies require [nodejs](https://nodejs.org/en/) and [npm](https://www.npmjs.com/).
+To install dev dependencies, run `npm install`.
+
+Styles are written in [sass](https://sass-lang.com/). They are then compiled, prefixed, and minified.
+
+To generated the production file after you modified the `src/index.scss` file, just `npm run styles`.
 
 ## Create new content
 
