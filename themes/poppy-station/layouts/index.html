@@ -13,9 +13,11 @@
   {{ partial "poppy.html" . }}
   <!-- / Poppy -->
 
+  <!-- Partners -->
   {{ if isset $.Site.Data.Partners "partners" -}}
     {{ partial "partners.html" . }}
   {{- end }}
+  <!-- / Partners -->
 
   <!-- Contact Form -->
   {{ if $.Site.Params.contactForm }}
