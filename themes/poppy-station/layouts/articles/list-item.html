@@ -1,4 +1,4 @@
 <a href="{{ .Permalink }}" class="list-group-item-action d-block py-3 px-3">
-  <h3 class="display-6">{{ .Title }}</h3>
+  <h2 class="display-6">{{ .Title }}</h2>
   <time datetime="{{ (.Date.Format "2006-01-02 15:04:05 MST") | safeHTML }}">{{ .Date.Format "January 02, 2006" }}</time>
 </a>
