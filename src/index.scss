@@ -1,0 +1,51 @@
+$theme-colors: (
+  "blue": #346281,
+  "primary": #346281
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 400;
+  src: local("system-ui"), local(".SFNSText-Light"), local("Segoe UI"),
+    local("Roboto"), local("Oxygen-Sans"), local("Ubuntu"), local("Cantarell"),
+    local("Helvetica Neue");
+}
+
+:root {
+  font-family: Roboto, system, "sans serif";
+}
+
+@media screen and (min-width: 576px) {
+  .jumbotron {
+    padding: 16rem 9rem;
+  }
+}
+
+section {
+  padding: 100px 0;
+}
+
+.single-content {
+  > *,
+  figure,
+  img,
+  video,
+  iframe,
+  embed {
+    max-width: 100%;
+  }
+}
+
+.site-footer {
+  font-size: 0.875rem;
+}
+
+.recent-articles .list-group-item {
+  &:first-child,
+  &:last-child {
+    border-radius: 0;
+  }
+}

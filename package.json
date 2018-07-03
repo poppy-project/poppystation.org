@@ -1,0 +1,29 @@
+{
+  "name": "poppy-station",
+  "version": "1.0.0",
+  "description": "Poppy Station Website",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass --includePath node_modules src/index.scss themes/poppy-station/static/css/poppy-station.css",
+    "prefix-css": "postcss themes/poppy-station/static/css/poppy-station.css --use autoprefixer --use cssnano -r --no-map",
+    "styles": "npm run build-css && npm run prefix-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashdashzako/poppy-station-www.git"
+  },
+  "author": "dashdashzako <d@dashdashzako.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dashdashzako/poppy-station-www/issues"
+  },
+  "homepage": "https://github.com/dashdashzako/poppy-station-www#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.6.4",
+    "bootstrap": "^4.1.1",
+    "cssnano": "^3.10.0",
+    "node-sass": "^4.9.0",
+    "postcss": "^6.0.23",
+    "postcss-cli": "^5.0.1"
+  }
+}
