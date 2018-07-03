@@ -1,4 +1,4 @@
-baseURL = "https://dashdashzako.github.io/poppy-station/"
+baseURL = "https://dashdashzako.github.io/poppy-station-www/"
 languageCode = "fr"
 title = "Poppy Station"
 theme = "poppy-station"
