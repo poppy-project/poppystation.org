@@ -1,0 +1,29 @@
+{{ if $.Site.Data.Social -}}
+<ul class="list-inline mb-0">
+
+  {{ if $.Site.Data.Social.twitter -}}
+  <li class="list-inline-item">
+    <a href="{{ $.Site.Data.Social.twitter.url }}" class="text-dark d-inline-block">
+      <i class="fab fa-twitter fa-lg"></i>
+    </a>
+  </li>
+  {{- end }}
+
+  {{ if $.Site.Data.Social.github -}}
+  <li class="list-inline-item">
+    <a href="{{ $.Site.Data.Social.github.url }}" class="text-dark d-inline-block">
+      <i class="fab fa-github fa-lg"></i>
+    </a>
+  </li>
+  {{- end }}
+
+  {{ if $.Site.Data.Social.facebook -}}
+  <li class="list-inline-item">
+    <a href="{{ $.Site.Data.Social.facebook.url }}" class="text-dark d-inline-block">
+      <i class="fab fa-facebook fa-lg"></i>
+    </a>
+  </li>
+  {{- end }}
+
+</ul>
+{{- end }}

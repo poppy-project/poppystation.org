@@ -2,50 +2,16 @@
 <footer class="px-4 py-3 bg-light text-center site-footer">
   <div class="container">
     <div class="row d-flex align-items-center">
-      <div class="col-md-4">© Poppy Station</div>
-
       <div class="col-md-4">
-        {{ if $.Site.Data.Social -}}
-        <ul class="list-inline mb-0">
-
-          {{ if $.Site.Data.Social.twitter -}}
-          <li class="list-inline-item">
-            <a href="{{ $.Site.Data.Social.twitter.url }}" class="text-dark d-inline-block">
-              <i class="fab fa-twitter fa-lg"></i>
-            </a>
-          </li>
-          {{- end }}
-
-          {{ if $.Site.Data.Social.github -}}
-          <li class="list-inline-item">
-            <a href="{{ $.Site.Data.Social.github.url }}" class="text-dark d-inline-block">
-              <i class="fab fa-github fa-lg"></i>
-            </a>
-          </li>
-          {{- end }}
-
-          {{ if $.Site.Data.Social.facebook -}}
-          <li class="list-inline-item">
-            <a href="{{ $.Site.Data.Social.facebook.url }}" class="text-dark d-inline-block">
-              <i class="fab fa-facebook fa-lg"></i>
-            </a>
-          </li>
-          {{- end }}
-
-        </ul>
-        {{- end }}
+        © {{ $.Site.Params.company }}
       </div>
 
       <div class="col-md-4">
-        {{ if $.Site.Data.Footer.links -}}
-        <ul class="list-inline mb-0">
-          {{ range $.Site.Data.Footer.links -}}
-          <li class="list-inline-item">
-            <a href="{{ .link }}">{{ .text }}</a>
-          </li>
-          {{- end }}
-        </ul>
-        {{- end }}
+        {{ partial "social.html" . }}
+      </div>
+
+      <div class="col-md-4">
+        {{ partial "footer-links.html" . }}
       </div>
 
     </div>

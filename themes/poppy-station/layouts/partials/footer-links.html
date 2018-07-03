@@ -1,0 +1,9 @@
+{{ if $.Site.Data.Footer.links -}}
+<ul class="list-inline mb-0">
+  {{ range $.Site.Data.Footer.links -}}
+  <li class="list-inline-item">
+    <a href="{{ .link }}">{{ .text }}</a>
+  </li>
+  {{- end }}
+</ul>
+{{- end }}

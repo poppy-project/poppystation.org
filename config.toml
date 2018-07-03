@@ -12,6 +12,8 @@ articles = "/:sections/:year/:slug/"
 
 [params]
 
+company = "Poppy Station"
+
 [params.jumbotron]
 title = "Poppy Station"
 description = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est accusantium, dolore, possimus sint odit voluptatum quia optio sed dignissimos iste cumque cupiditate aut quasi reprehenderit quae repellat nulla vero vitae."
