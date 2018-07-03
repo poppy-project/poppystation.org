@@ -1,7 +1,7 @@
 ---
 title: "Mentions Legales"
 date: 2018-06-29T15:23:58+02:00
-draft: true
+draft: false
 ---
 
 Proident aliquip fugiat exercitation sunt ea eiusmod enim. Do sint in Lorem sit fugiat do. Consequat non enim enim in sit consectetur duis ullamco ad veniam do nisi et. Qui aliqua qui ex ea. Sunt velit aliquip consectetur eiusmod amet deserunt in sunt cillum. Incididunt reprehenderit occaecat pariatur tempor adipisicing occaecat eiusmod aliqua in enim voluptate est occaecat aute.
