@@ -12,7 +12,7 @@ articles = "/:sections/:year/:slug/"
 
 [params]
 
-company = "Poppy Station"
+company = "Poppy Station" 
 
 [params.jumbotron]
 title = "Poppy Station"
