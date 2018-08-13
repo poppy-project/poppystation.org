@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles publiés on Poppy Station</title>
+    <link>https://poppy-project.github.io/poppystation.org/articles/</link>
+    <description>Recent content in Articles publiés on Poppy Station</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 29 Jun 2018 15:24:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://poppy-project.github.io/poppystation.org/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kitchen Sink</title>
+      <link>https://poppy-project.github.io/poppystation.org/articles/2018/kitchen-sink/</link>
+      <pubDate>Fri, 29 Jun 2018 15:24:09 +0200</pubDate>
+      
+      <guid>https://poppy-project.github.io/poppystation.org/articles/2018/kitchen-sink/</guid>
+      <description>Lorem ullamco veniam veniam enim aliqua aute anim. Elit amet reprehenderit non est sunt non magna aliquip et voluptate eiusmod et sint quis. Commodo eiusmod mollit irure enim ut. Proident pariatur officia commodo cupidatat. Esse esse reprehenderit exercitation aliqua proident aute minim voluptate mollit. Incididunt reprehenderit excepteur mollit Lorem cupidatat eu irure nostrud.
+Sit labore velit reprehenderit excepteur aute culpa enim irure in nulla sint. Excepteur ex cillum incididunt duis adipisicing aliquip do est sunt dolor esse commodo ex.</description>
+    </item>
+    
+  </channel>
+</rss>

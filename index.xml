@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poppy Station</title>
+    <link>https://poppy-project.github.io/poppystation.org/</link>
+    <description>Recent content on Poppy Station</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 29 Jun 2018 15:24:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://poppy-project.github.io/poppystation.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kitchen Sink</title>
+      <link>https://poppy-project.github.io/poppystation.org/articles/2018/kitchen-sink/</link>
+      <pubDate>Fri, 29 Jun 2018 15:24:09 +0200</pubDate>
+      
+      <guid>https://poppy-project.github.io/poppystation.org/articles/2018/kitchen-sink/</guid>
+      <description>Lorem ullamco veniam veniam enim aliqua aute anim. Elit amet reprehenderit non est sunt non magna aliquip et voluptate eiusmod et sint quis. Commodo eiusmod mollit irure enim ut. Proident pariatur officia commodo cupidatat. Esse esse reprehenderit exercitation aliqua proident aute minim voluptate mollit. Incididunt reprehenderit excepteur mollit Lorem cupidatat eu irure nostrud.
+Sit labore velit reprehenderit excepteur aute culpa enim irure in nulla sint. Excepteur ex cillum incididunt duis adipisicing aliquip do est sunt dolor esse commodo ex.</description>
+    </item>
+    
+    <item>
+      <title>Mentions Legales</title>
+      <link>https://poppy-project.github.io/poppystation.org/mentions-legales/</link>
+      <pubDate>Fri, 29 Jun 2018 15:23:58 +0200</pubDate>
+      
+      <guid>https://poppy-project.github.io/poppystation.org/mentions-legales/</guid>
+      <description>Proident aliquip fugiat exercitation sunt ea eiusmod enim. Do sint in Lorem sit fugiat do. Consequat non enim enim in sit consectetur duis ullamco ad veniam do nisi et. Qui aliqua qui ex ea. Sunt velit aliquip consectetur eiusmod amet deserunt in sunt cillum. Incididunt reprehenderit occaecat pariatur tempor adipisicing occaecat eiusmod aliqua in enim voluptate est occaecat aute.
+Ut qui qui fugiat ipsum sunt amet ullamco aute excepteur et nostrud laboris in.</description>
+    </item>
+    
+    <item>
+      <title>Association</title>
+      <link>https://poppy-project.github.io/poppystation.org/association/</link>
+      <pubDate>Fri, 29 Jun 2018 15:23:36 +0200</pubDate>
+      
+      <guid>https://poppy-project.github.io/poppystation.org/association/</guid>
+      <description>Adipisicing aliqua mollit ea ea consectetur esse occaecat culpa officia sint dolore. Do deserunt adipisicing consequat dolore laboris consequat nostrud ea nulla. Ut enim aliqua enim qui non laboris excepteur tempor Lorem aute pariatur exercitation eu. Tempor nulla sunt occaecat fugiat sit exercitation. Fugiat ad duis sunt cillum voluptate officia mollit eu minim tempor et ad id laboris.
+Incididunt aute do quis eu magna voluptate non aute officia ad nostrud. Lorem reprehenderit proident proident dolore anim cupidatat anim eu adipisicing.</description>
+    </item>
+    
+  </channel>
+</rss>

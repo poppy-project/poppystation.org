@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Poppy Station</title>
+    <link>https://poppy-project.github.io/poppystation.org/page/</link>
+    <description>Recent content in Pages on Poppy Station</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 29 Jun 2018 15:23:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://poppy-project.github.io/poppystation.org/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mentions Legales</title>
+      <link>https://poppy-project.github.io/poppystation.org/mentions-legales/</link>
+      <pubDate>Fri, 29 Jun 2018 15:23:58 +0200</pubDate>
+      
+      <guid>https://poppy-project.github.io/poppystation.org/mentions-legales/</guid>
+      <description>Proident aliquip fugiat exercitation sunt ea eiusmod enim. Do sint in Lorem sit fugiat do. Consequat non enim enim in sit consectetur duis ullamco ad veniam do nisi et. Qui aliqua qui ex ea. Sunt velit aliquip consectetur eiusmod amet deserunt in sunt cillum. Incididunt reprehenderit occaecat pariatur tempor adipisicing occaecat eiusmod aliqua in enim voluptate est occaecat aute.
+Ut qui qui fugiat ipsum sunt amet ullamco aute excepteur et nostrud laboris in.</description>
+    </item>
+    
+    <item>
+      <title>Association</title>
+      <link>https://poppy-project.github.io/poppystation.org/association/</link>
+      <pubDate>Fri, 29 Jun 2018 15:23:36 +0200</pubDate>
+      
+      <guid>https://poppy-project.github.io/poppystation.org/association/</guid>
+      <description>Adipisicing aliqua mollit ea ea consectetur esse occaecat culpa officia sint dolore. Do deserunt adipisicing consequat dolore laboris consequat nostrud ea nulla. Ut enim aliqua enim qui non laboris excepteur tempor Lorem aute pariatur exercitation eu. Tempor nulla sunt occaecat fugiat sit exercitation. Fugiat ad duis sunt cillum voluptate officia mollit eu minim tempor et ad id laboris.
+Incididunt aute do quis eu magna voluptate non aute officia ad nostrud. Lorem reprehenderit proident proident dolore anim cupidatat anim eu adipisicing.</description>
+    </item>
+    
+  </channel>
+</rss>

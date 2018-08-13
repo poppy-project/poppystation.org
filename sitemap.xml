@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://poppy-project.github.io/poppystation.org/articles/</loc>
+    <lastmod>2018-06-29T15:24:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poppy-project.github.io/poppystation.org/articles/2018/kitchen-sink/</loc>
+    <lastmod>2018-06-29T15:24:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poppy-project.github.io/poppystation.org/mentions-legales/</loc>
+    <lastmod>2018-06-29T15:23:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poppy-project.github.io/poppystation.org/association/</loc>
+    <lastmod>2018-06-29T15:23:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poppy-project.github.io/poppystation.org/page/</loc>
+    <lastmod>2018-06-29T15:23:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poppy-project.github.io/poppystation.org/</loc>
+    <lastmod>2018-06-29T15:24:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
