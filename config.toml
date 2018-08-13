@@ -16,7 +16,7 @@ company = "Poppy Station"
 
 [params.jumbotron]
 title = "Poppy Station"
-description = "Ecosystème Poppy/n d'innovation robotique et IA pour l'éducation, les arts et la recherche"
+description = "Ecosystème Poppy/n Innovation robotique et IA pour l'éducation, les arts et la recherche"
 
 [params.contactForm]
 email = "junk@dashdashzako.net"
